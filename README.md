@@ -1,0 +1,1 @@
+I am following the Odin Project course right now!
